@@ -20,7 +20,9 @@
   },
   "homepage": "https://github.com/StgoWF/SVG-Logo_Maker#readme",
   "devDependencies": {
-    "inquirer": "^9.2.20",
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
   }
 }
