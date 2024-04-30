@@ -1,0 +1,26 @@
+{
+  "name": "svg-logo-maker",
+  "version": "1.0.0",
+  "description": "A CLI tool for generating custom SVG logos",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StgoWF/SVG-Logo_Maker.git"
+  },
+  "keywords": [
+    "svg"
+  ],
+  "author": "StgoWF",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StgoWF/SVG-Logo_Maker/issues"
+  },
+  "homepage": "https://github.com/StgoWF/SVG-Logo_Maker#readme",
+  "devDependencies": {
+    "inquirer": "^9.2.20",
+    "jest": "^29.7.0"
+  }
+}
