@@ -33,7 +33,7 @@ Execute the command `node index.js` in your terminal, follow the prompts to sele
 The code for this application can be found in [this GitHub repository](https://github.com/StgoWF/SVG-Logo_Maker).
 
 ## Video Walkthrough
-For a demonstration of the application's functionality, please watch this [video walkthrough](https://drive.google.com/file/d/1joEFAgzuEc30fIR9tXt4U8CMsleHA6zZ/view).
+For a demonstration of the application's functionality, please watch this [video walkthrough](https://drive.google.com/file/d/1HjYXnXXIXiIRDn3IZcCwkXEzp5CJs_D9/view).
 
 ## Contributing
 If you would like to contribute, please fork the repository and submit a pull request with your suggestions.
